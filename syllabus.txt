@@ -1,5 +1,5 @@
 
-CS 495/595 - Introduction to Information Retrieval 
+CS 495/595 - Advanced Topics in HTTP
 
 Fall 2018
 
