@@ -43,12 +43,12 @@ Place: ECS Building, r. 3102
 
 ### Request for Comments (RFCs)
 * Historical RFCs
-** [RFC 1630: Universal Resource Identifiers in WWW](https://tools.ietf.org/html/rfc1630)
+ * [RFC 1630: Universal Resource Identifiers in WWW](https://tools.ietf.org/html/rfc1630)
  * [RFC 1867: Form-based File Upload in HTML](https://tools.ietf.org/html/rfc1867)
  * [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
  * [RFC 2295: Transparent Content Negotiation in HTTP](https://tools.ietf.org/html/rfc2295)
  * [RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
-  Current RFCs
+* Current RFCs
  * [RFC 3875: The Common Gateway Interface (CGI) Version 1.1](https://tools.ietf.org/html/rfc3875)
  * [RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://tools.ietf.org/html/rfc7230)
  * [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231)
