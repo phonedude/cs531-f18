@@ -1,9 +1,9 @@
 
-CS 495/595 - Advanced Topics in HTTP
+CS 431/531 - Web Server Design
 
 Fall 2018
 
-CRNs: 22046 and 22047
+CRNs: 22220 and 22221
 
 Instructor: Michael L. Nelson <mln@cs.odu.edu>
                 http://www.cs.odu.edu/~mln/

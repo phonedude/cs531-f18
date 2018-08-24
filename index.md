@@ -1,4 +1,4 @@
-### ODU CS 495/595 Advanced HTTP Topics, Fall 2018.
+### ODU CS 431/531 Web Server Design, Fall 2018.
 Instructor: [Michael L. Nelson](http://www.cs.odu.edu/~mln/) <mln@cs.odu.edu> 
 
 Office Hours: Wednesdays 3-4 and by appointment
