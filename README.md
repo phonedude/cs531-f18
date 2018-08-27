@@ -1,1 +1,1 @@
-# ODU CS 495/595 Advanced HTTP Topics, Fall 2018
+# ODU CS 431/531 Web Server Design, Fall 2018
