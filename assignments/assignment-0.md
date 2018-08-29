@@ -1,5 +1,7 @@
 ## Assignment 0, CS 431/531, Fall 2018
+
 Due: 2018-09-05
+
 Points available: 5
 
 ### Part 1 -- Join the mailing list 
