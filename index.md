@@ -7,13 +7,13 @@ Time: Wednesdays 4:20pm - 7:00pm
 
 Place: ECS Building, r. 3102
 
-[Syllabus](https://raw.githubusercontent.com/phonedude/cs595-f18/master/syllabus.txt)
+[Syllabus](https://raw.githubusercontent.com/phonedude/cs531-f18/master/syllabus.txt)
 
 ### Recommended Books
 * [HTTP Developer's Handbook](https://www.amazon.com/HTTP-Developers-Handbook-Chris-Shiflett/dp/0672324547) 
 
 ### Class Email list
-* [https://groups.google.com/group/cs595-f18](https://groups.google.com/group/cs595-f18)
+* [https://groups.google.com/group/cs531-f18](https://groups.google.com/group/cs531-f18)
 
 ### Class Schedule (subject to change)
 * Week 1 - August 29 - Administrivia, Introduction to HTTP, W3C Web Architecture, Git/GitHub, curl, wget
@@ -35,6 +35,7 @@ Place: ECS Building, r. 3102
 
 
 ### Assignments (subject to change)
+* Assignment 0: due 2018-09-05
 * Assignment 1: due 2018-09-26
 * Assignment 2: due 2018-10-17
 * Assignment 3: due 2018-11-07
@@ -45,12 +46,13 @@ Place: ECS Building, r. 3102
 #### Historical RFCs
 * [RFC 1630: Universal Resource Identifiers in WWW](https://tools.ietf.org/html/rfc1630)
 * [RFC 1867: Form-based File Upload in HTML](https://tools.ietf.org/html/rfc1867)
-* [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
 * [RFC 2295: Transparent Content Negotiation in HTTP](https://tools.ietf.org/html/rfc2295)
+* [RFC 2396: Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc2396)
 * [RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 
 #### Current RFCs
 * [RFC 3875: The Common Gateway Interface (CGI) Version 1.1](https://tools.ietf.org/html/rfc3875)
+* [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
 * [RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://tools.ietf.org/html/rfc7230)
 * [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231)
 * [RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232)

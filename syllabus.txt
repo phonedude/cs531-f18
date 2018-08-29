@@ -84,11 +84,11 @@ ODU Honor Code:
 
 Class Homepage: 
 
-   https://phonedude.github.io/cs595-f18/
+   https://phonedude.github.io/cs531-f18/
 
 Class Email List:
 
-   http://groups.google.com/group/cs595-f18/
+   http://groups.google.com/group/cs531-f18/
    You need to register yourself to this list.
 
 Class Textbook:
