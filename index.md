@@ -17,7 +17,7 @@ Place: ECS Building, r. 3102
 
 ### Class Schedule (subject to change)
 * Week 1 - August 29 - [Administrivia, Introduction to HTTP](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-admin-http.ppt), W3C Web Architecture, [Git/GitHub](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-github.pptx), curl, wget
-* Week 2 - September 5 - [URIs, logs, MIME]https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-02-uris-mime.ppt), introduction to Docker, AWS
+* Week 2 - September 5 - [URIs, logs, MIME](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-02-uris-mime.ppt), introduction to Docker, AWS
 * Week 3 - September 12 - Conditionals (ETags, date-time), redirections
 * Week 4 - September 19 - Long-lived connections, pipelines
 * Week 5 - September 26 - (no class)
