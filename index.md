@@ -34,7 +34,8 @@ Place: ECS Building, r. 3102
 * Week 16 - December 12 - Exam Week
 
 ### Assignments (subject to change)
-* Assignment 0: [due 2018-09-05](assignments/assignment-0.md)
+* Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
+* Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
 * Assignment 1: [due 2018-10-03](assignments/assignment-1.md)
 * Assignment 2: due 2018-10-24
 * Assignment 3: due 2018-11-14
