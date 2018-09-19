@@ -10,7 +10,7 @@ Points available: 10 max
 
 ### AWS or similar cloud computing tutorial
 
-* Create a detailed (cf. [GitHub tutorial]https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-github.pptx)) tutorial for setting up a server in AWS or similar cloud computing environment.
+* Create a detailed (cf. [GitHub tutorial](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-github.pptx)) tutorial for setting up a server in AWS or similar cloud computing environment.
 * Issue a PR to the class repo, place it in the "slides" directory
 * 5 points for the 1st person to complete this, 4 points for the 2nd person, etc.
 
