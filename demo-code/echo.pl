@@ -4,8 +4,8 @@ use IO::Socket;
 my $use_fork = 1;
  
 my $sock = new IO::Socket::INET (
-                                 LocalHost => '127.0.0.1',
-                                 LocalPort => '12321',
+                                 LocalHost => '0.0.0.0',
+                                 LocalPort => '80',
                                  Proto => 'tcp',
                                  Listen => 1,   # maximum queued connections
                                  Reuse => 1,
