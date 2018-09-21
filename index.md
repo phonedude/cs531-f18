@@ -18,27 +18,27 @@ Place: ECS Building, r. 3102
 ### Class Schedule (subject to change)
 * Week 1 - August 29 - [Administrivia, Introduction to HTTP](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-admin-http.ppt), W3C Web Architecture, [Git/GitHub](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-01-github.pptx), curl, wget
 * Week 2 - September 5 - [URIs, logs, MIME](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-02-uris-mime.ppt), introduction to Docker, AWS
-* Week 3 - September 12 - Conditionals (ETags, date-time), redirections
-* Week 4 - September 19 - Long-lived connections, pipelines
+* Week 3 - September 12 - (Hurricane Florence -- no class)
+* Week 4 - September 19 - [Conditionals (ETags, date-time), redirections](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-04-conditionals-redirections.pptx)
 * Week 5 - September 26 - (no class)
-* Week 6 - October 3 - Range and Partial Content
-* Week 7 - October 10 - Transfer encodings, content encodings 
-* Week 8 - October 17 - Content Negotiation
-* Week 9 - October 24 - Authentication
-* Week 10 - October 31 - Unsafe methods (PUT, POST, DELETE)
-* Week 11 - November 7 - Server-side execution
-* Week 12 - November 14 - WARC
+* Week 6 - October 3 - Long-lived connections, pipelines
+* Week 7 - October 10 - Range and Partial Content
+* Week 8 - October 17 - Transfer encodings, content encodings
+* Week 9 - October 24 - Content Negotiation
+* Week 10 - October 31 - Authentication
+* Week 11 - November 7 - Unsafe methods (PUT, POST, DELETE)
+* Week 12 - November 14 - Server-side execution
 * Week 13 - November 21 - (Thanksgiving -- no class)
-* Week 14 - November 28 - Caching 
-* Week 15 - December 5 - HTTPS: HTTP over TLS/SSL
-* Week 16 - December 12 - Exam Week 
-
+* Week 14 - November 28 - WARC
+* Week 15 - December 5 - Caching
+* Week 16 - December 12 - Exam Week
 
 ### Assignments (subject to change)
-* Assignment 0: [due 2018-09-05](assignments/assignment-0.md)
-* Assignment 1: [due 2018-09-26](assignments/assignment-1.md)
-* Assignment 2: due 2018-10-17
-* Assignment 3: due 2018-11-07
+* Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
+* Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
+* Assignment 1: [due 2018-10-03](assignments/assignment-1.md)
+* Assignment 2: due 2018-10-24
+* Assignment 3: due 2018-11-14
 * Assignment 4: due 2018-11-28
 * Assignment 5: due 2018-12-12
 
