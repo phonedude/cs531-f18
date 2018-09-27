@@ -36,8 +36,7 @@ Place: ECS Building, r. 3102
 ### Assignments (subject to change)
 * Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
 * Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
-* Assignment 1: [due 2018-10-03](assignments/assignment-1.md)
-** A1 test files ([repo](tree/master/www-root/a1-test),[.tar.gz](blob/master/www-tars/a1-test.tar.gz))
+* Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- A1 test files ([repo](https://github.com/phonedude/cs531-f18/tree/master/www-root/a1-test),[.tar.gz](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz))
 * Assignment 2: due 2018-10-24
 * Assignment 3: due 2018-11-14
 * Assignment 4: due 2018-11-28
