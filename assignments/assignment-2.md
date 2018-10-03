@@ -44,9 +44,12 @@ Points available: 20
 * if a directory does not have a default resource (i.e., `index.html`), then dynamically generate an HTML listing of the directories files (they should be clickable, with dates, sizes, etc.)
 * create a separate config file that supports redirections of the form:
 
-> #
-> # Status: Incoming RE		Redirect URI
-> #   
-> 302: ^(.*)/coolcar.html$	$1/galaxie.html    
-> 302: ^(.*)/1.[234]/(.*)		$1/1.1/$2  
-> 301: ^(.*)/mercury/(.*)$	$1/ford/$2   
+`#`   
+`# Status: Incoming RE          Redirect URI`   
+`#`   
+`302: ^(.*)/coolcar.html$       $1/galaxie.html`   
+`302: ^(.*)/1.[234]/(.*)                $1/1.1/$2`  
+`301: ^(.*)/mercury/(.*)$       $1/ford/$2`   
+
+
+
