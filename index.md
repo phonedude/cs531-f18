@@ -21,7 +21,7 @@ Place: ECS Building, r. 3102
 * Week 3 - September 12 - (Hurricane Florence -- no class)
 * Week 4 - September 19 - [Conditionals (ETags, date-time), redirections](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-04-conditionals-redirections.pptx)
 * Week 5 - September 26 - (no class)
-* Week 6 - October 3 - Long-lived connections, pipelines
+* Week 6 - October 3 - [Long-lived connections, pipelines](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-05-long-lived-connections-pipelines.ppt)
 * Week 7 - October 10 - Range and Partial Content
 * Week 8 - October 17 - Transfer encodings, content encodings
 * Week 9 - October 24 - Content Negotiation
@@ -37,7 +37,7 @@ Place: ECS Building, r. 3102
 * Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
 * Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
 * Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- A1 test files ([repo](https://github.com/phonedude/cs531-f18/tree/master/www-root/a1-test),[.tar.gz](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz))
-* Assignment 2: due 2018-10-24
+* Assignment 2: [due 2018-10-24](assignments/assignment-2.md)
 * Assignment 3: due 2018-11-14
 * Assignment 4: due 2018-11-28
 * Assignment 5: due 2018-12-12
