@@ -22,7 +22,7 @@ Place: ECS Building, r. 3102
 * Week 4 - September 19 - [Conditionals (ETags, date-time), redirections](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-04-conditionals-redirections.pptx)
 * Week 5 - September 26 - (no class)
 * Week 6 - October 3 - [Long-lived connections, pipelines](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-05-long-lived-connections-pipelines.ppt)
-* Week 7 - October 10 - Range and Partial Content
+* Week 7 - October 10 - [Range and Partial Content](https://raw.githubusercontent.com/phonedude/cs531-f18/master/week-07-range-partial-content.ppt)
 * Week 8 - October 17 - Transfer encodings, content encodings
 * Week 9 - October 24 - Content Negotiation
 * Week 10 - October 31 - Authentication
@@ -56,6 +56,6 @@ Place: ECS Building, r. 3102
 * [RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://tools.ietf.org/html/rfc7230)
 * [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231)
 * [RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232)
-* [RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://tools.ietf.org/html/rfc7234)
+* [RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://tools.ietf.org/html/rfc7233)
 * [RFC 7234: Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234)
  * [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
