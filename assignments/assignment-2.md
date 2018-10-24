@@ -11,9 +11,9 @@ Points available: 20
 ### Additional status codes 
 
 * 301 Moved Permanently
- * if "/foo" is a directory, the server should 301 redirect to "/foo/"
+   * if "/foo" is a directory, the server should 301 redirect to "/foo/"
 * 302 Found
- * takes a configurable list of regular expressions and provides URIs that the server should 302 redirect to 
+   * takes a configurable list of regular expressions and provides URIs that the server should 302 redirect to 
 * 304 Not Modified
 * 408 Request Timeout
 * 412 Precondition Failed
@@ -22,7 +22,7 @@ Points available: 20
 ### Additional request headers 
 
 * Connection: close
- * is now optional; its absence means the request is long-lived
+   * is now optional; its absence means the request is long-lived
 * If-Modified-Since
 * If-Unmodified-Since
 * If-Match
