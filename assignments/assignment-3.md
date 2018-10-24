@@ -26,7 +26,7 @@ Points available: 20
 * Accept-Language
 * Negotiate
 * Range
- * We will defer multiple Range specifications that would result in a "multipart/byteranges" response (sections 4.1, 4.3)
+  * We will defer multiple Range specifications that would result in a "multipart/byteranges" response (sections 4.1, 4.3)
 * If-Range
 * User-Agent
 * Referer
@@ -44,27 +44,27 @@ Points available: 20
 * Accept-Range
 * Content-Range
 * Content-type
- * add charset after type if not ISO-8859-1 (ASCII); see week 9 slides for examples
+  * add charset after type if not ISO-8859-1 (ASCII); see week 9 slides for examples
 
 ### Encodings
 
 * supports "gzip" and "compress"
 * Use "chunked” transfer encoding for any dynamically generated server response
- * i.e., directory listings and 3xx, 4xx, 5xx html snippets
- * use 2 lines as the "chunk"
+  * i.e., directory listings and 3xx, 4xx, 5xx html snippets
+  * use 2 lines as the "chunk"
 
 ### Notes
 
 * Support/advertise partial GET capability (i.e., Accept-Range) for all resources for all resources/responses for which you don't use Transfer-Encoding: chunked
 * Use these language encodings (in a config file):
- * en, es, de, ja, ko, ru
+  * en, es, de, ja, ko, ru
 * Use these non-ASCII charset encodings (in a config file):
- * ".jis" -> "iso-2022-jp"
- * "koi8-r" -> "koi8-r"
- * "euc-kr" -> "euc-kr"
+  * ".jis" -> "iso-2022-jp"
+  * "koi8-r" -> "koi8-r"
+  * "euc-kr" -> "euc-kr"
 * Build "Vary" response header as:
- * Vary: negotiate, header1, header2, ..., headerN
- * only send Vary if CN is possible for this URI
+  * Vary: negotiate, header1, header2, ..., headerN
+  * only send Vary if CN is possible for this URI
 * Generate structured ETags on selected representation as per RFC 2295 (section 9.2)
 
 
