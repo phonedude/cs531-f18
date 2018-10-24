@@ -24,7 +24,7 @@ Place: ECS Building, r. 3102
 * Week 6 - October 3 - [Long-lived connections, pipelines](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-05-long-lived-connections-pipelines.ppt)
 * Week 7 - October 10 - [Range and Partial Content](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-07-range-partial-content.ppt)
 * Week 8 - October 17 - [Transfer encodings, content encodings](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-08-transfer-content-encodings.ppt)
-* Week 9 - October 24 - Content Negotiation
+* Week 9 - October 24 - [Content Negotiation](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-09-content-negotiation.ppt)
 * Week 10 - October 31 - Authentication
 * Week 11 - November 7 - Unsafe methods (PUT, POST, DELETE)
 * Week 12 - November 14 - Server-side execution
