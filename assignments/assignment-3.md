@@ -39,6 +39,7 @@ Points available: 20
 * Content-Location
 * Content-Encoding
 * "Transfer-Encoding: chunked"
+   * Revisit [Section 7.1, RFC 7230](https://tools.ietf.org/html/rfc7230#section-4.1) for the correct syntax
 * Alternates
 * TCN
 * Accept-Range
