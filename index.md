@@ -25,7 +25,7 @@ Place: ECS Building, r. 3102
 * Week 7 - October 10 - [Range and Partial Content](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-07-range-partial-content.ppt)
 * Week 8 - October 17 - [Transfer encodings, content encodings](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-08-transfer-content-encodings.ppt)
 * Week 9 - October 24 - [Content Negotiation](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-09-content-negotiation.ppt)
-* Week 10 - October 31 - Authentication
+* Week 10 - October 31 - [Authentication](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-10-authentication.ppt)
 * Week 11 - November 7 - Unsafe methods (PUT, POST, DELETE)
 * Week 12 - November 14 - Server-side execution
 * Week 13 - November 21 - (Thanksgiving -- no class)
@@ -37,6 +37,7 @@ Place: ECS Building, r. 3102
 * Assignment 0-0: [due 2018-09-05](assignments/assignment-0-0.md)
 * Assignment 0-1: [due 2018-09-26](assignments/assignment-0-1.md)
 * Assignment 0-2: [due 2018-10-30](assignments/assignment-0-2.md)
+* Assignment 0-2: [due 2018-11-10](assignments/assignment-0-3.md)
 * Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- [A1 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz)
 * Assignment 2: [due 2018-10-24](assignments/assignment-2.md) -- [A2 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a2-test.tar.gz)
 * Assignment 3: [due 2018-11-14](assignments/assignment-3.md)
