@@ -26,7 +26,7 @@ Place: ECS Building, r. 3102
 * Week 8 - October 17 - [Transfer encodings, content encodings](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-08-transfer-content-encodings.ppt)
 * Week 9 - October 24 - [Content Negotiation](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-09-content-negotiation.ppt)
 * Week 10 - October 31 - [Authentication](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-10-authentication.ppt)
-* Week 11 - November 7 - Unsafe methods (PUT, POST, DELETE)
+* Week 11 - November 7 - [Unsafe methods](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-11-unsafe-methods.ppt)
 * Week 12 - November 14 - Server-side execution
 * Week 13 - November 21 - (Thanksgiving -- no class)
 * Week 14 - November 28 - WARC
@@ -60,4 +60,6 @@ Place: ECS Building, r. 3102
 * [RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://tools.ietf.org/html/rfc7232)
 * [RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://tools.ietf.org/html/rfc7233)
 * [RFC 7234: Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234)
- * [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+* [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+* [RFC 7616: HTTP Digest Access Authentication](https://tools.ietf.org/html/rfc7616)
+* [RFC 7617: The 'Basic' HTTP Authentication Scheme](https://tools.ietf.org/html/rfc7617)
