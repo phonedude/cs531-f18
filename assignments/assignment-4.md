@@ -36,17 +36,17 @@ Points available: 20
     * this file protects the directory it is in, and recursively protects all of its sub-directories
 * sample file:
 
-`#`
-`# Hashed lines are comments`
-`# order is not important, but here are `
-`# two special lines:`
-`#`
-`authorization-type=Basic`
-`realm="Lane Stadium"`
-`# always quote realm since it might have spaces `
-`#`
-`# user format = name:md5(password)`
-`#`
-`mln:d3b07384d113edec49eaa6238ad5ff00`
-`bda:c157a79031e1c40f85931829bc5fc552`
-`jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2`
+`#`    
+`# Hashed lines are comments`    
+`# order is not important, but here are `    
+`# two special lines:`    
+`#`    
+`authorization-type=Basic`    
+`realm="Lane Stadium"`    
+`# always quote realm since it might have spaces `    
+`#`    
+`# user format = name:md5(password)`    
+`#`     
+`mln:d3b07384d113edec49eaa6238ad5ff00`    
+`bda:c157a79031e1c40f85931829bc5fc552`    
+`jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2`    
