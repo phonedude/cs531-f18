@@ -42,8 +42,8 @@ Place: ECS Building, r. 3102
 * Assignment 1: [due 2018-10-03](assignments/assignment-1.md) -- [A1 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a1-test.tar.gz)
 * Assignment 2: [due 2018-10-24](assignments/assignment-2.md) -- [A2 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a2-test.tar.gz)
 * Assignment 3: [due 2018-11-19](assignments/assignment-3.md) -- [A3 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a3-test.tar.gz)
-* Assignment 4: [due 2018-11-28](assignments/assignment-4.md)
-* Assignment 5: due 2018-12-12
+* Assignment 4: [due 2018-12-05](assignments/assignment-4.md) -- [A4 test files](https://github.com/phonedude/cs531-f18/blob/master/www-tars/a4-test.tar.gz)
+* Assignment 5: due 2018-12-14
 
 ### Request for Comments (RFCs)
 #### Historical RFCs
