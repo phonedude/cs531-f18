@@ -2,7 +2,7 @@
 
 Due: 2018-12-14
 
-Points available:  21 max
+Points available:  24 max
 
 ### Trailers in the wild
 * find and post up to three different "in the wild" examples of Trailers response headers.
