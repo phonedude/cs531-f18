@@ -60,6 +60,7 @@ Points available: 20
 `bda:c157a79031e1c40f85931829bc5fc552`    
 `jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2`    
 * Required Environment Variables
+
 `SCRIPT_NAME`     
 `SCRIPT_URI`     
 `SCRIPT_FILENAME`     
