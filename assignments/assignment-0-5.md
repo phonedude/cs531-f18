@@ -25,3 +25,6 @@ Points available:  21 max
 
 ### HTTP/1.1 design improvements
 * during the semester we covered several areas where HTTP/1.1 could have been designed more consistently.  Provide up to three well-documented examples of what you would change in HTTP/1.1 (I'm not looking for features present in HTTP2, rather some of the syntax and consistency issues we discussed in class).  Document both how things are in HTTP/1.1 and what you would propose instead.  
+
+### WARC file comparison
+* Compare and contrast the resulting WARC files generating by 1) wget, 2) WARCreate.com, and 3) webrecorder.io on the URI: https://odu.edu/compsci
