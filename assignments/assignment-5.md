@@ -47,7 +47,8 @@ Points available: 20
 `"%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""`
 * use "ALLOW-PUT" and "ALLOW-DELETE" in the WeMustProtectThisHouse! file, as per lecture 11:
 
-````#
+```
+#
 ALLOW-PUT
 ALLOW-DELETE
 #
@@ -61,20 +62,23 @@ mln:d3b07384d113edec49eaa6238ad5ff00
 bda:c157a79031e1c40f85931829bc5fc552
 jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2
 ```
+
 * Required Environment Variables
 
-`SCRIPT_NAME`     
-`SCRIPT_URI`     
-`SCRIPT_FILENAME`     
-`HTTP_REFERER`     
-`HTTP_USER_AGENT`     
-`REQUEST_METHOD`     
-`REMOTE_ADDR`     
-`QUERY_STRING`     
-`REMOTE_USER`     
-`AUTH_TYPE`     
-`SERVER_NAME`     
-`SERVER_SOFTWARE`     
-`SERVER_PORT`     
-`SERVER_ADDR`     
-`SERVER_PROTOCOL`     
+```
+SCRIPT_NAME     
+SCRIPT_URI     
+SCRIPT_FILENAME     
+HTTP_REFERER     
+HTTP_USER_AGENT     
+REQUEST_METHOD     
+REMOTE_ADDR     
+QUERY_STRING     
+REMOTE_USER     
+AUTH_TYPE     
+SERVER_NAME     
+SERVER_SOFTWARE     
+SERVER_PORT     
+SERVER_ADDR     
+SERVER_PROTOCOL     
+```
