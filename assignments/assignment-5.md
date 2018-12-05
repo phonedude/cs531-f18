@@ -46,19 +46,21 @@ Points available: 20
 * Update the log format to include the "user-agent:" and "Referer:" request headers:
 `"%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""`
 * use "ALLOW-PUT" and "ALLOW-DELETE" in the WeMustProtectThisHouse! file, as per lecture 11:
-`#`    
-`ALLOW-PUT`
-`ALLOW-DELETE`
-`#`
-`authorization-type=Basic`    
-`realm="Lane Stadium"`    
-`# always quote realm since it might have spaces `    
-`#`    
-`# user format = name:md5(password)`    
-`#`     
-`mln:d3b07384d113edec49eaa6238ad5ff00`    
-`bda:c157a79031e1c40f85931829bc5fc552`    
-`jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2`    
+
+````#
+ALLOW-PUT
+ALLOW-DELETE
+#
+authorization-type=Basic
+realm="Lane Stadium"
+# always quote realm since it might have spaces
+#
+# user format = name:md5(password)
+#
+mln:d3b07384d113edec49eaa6238ad5ff00
+bda:c157a79031e1c40f85931829bc5fc552
+jbollen:66e0459d0abbc8cd8bd9a88cd226a9b2
+```
 * Required Environment Variables
 
 `SCRIPT_NAME`     
