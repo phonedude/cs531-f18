@@ -1,6 +1,6 @@
 ## Assignment 4, CS 431/531, Fall 2018
 
-Due: 2018-11-30
+Due: 2018-12-07
 
 Points available: 20
 
