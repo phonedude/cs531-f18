@@ -30,7 +30,8 @@ Place: ECS Building, r. 3102
 * Week 12 - November 14 - [Server-side execution](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-12-server-side-execution.ppt)
 * Week 13 - November 21 - (Thanksgiving -- no class)
 * Week 14 - November 28 - [HTTP Method Support](http://ws-dl.blogspot.com/2014/05/2014-05-08-support-for-various-http.html), [HTTPMailbox](http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html), [WARC](https://iipc.github.io/warc-specifications/) [(slides)](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-14-warc.pdf), and [REST/HATEOAS](http://ws-dl.blogspot.com/2013/11/2013-11-19-rest-hateoas-and-follow-your.html).
-* Week 15 - December 5 - HTTP/2, HTTP/3
+* Week 15 - December 5 - [HTTP/2, HTTP/3](https://raw.githubusercontent.com/phonedude/cs531-f18/master/slides/week-15-http2-http3.ppt)
+
 * Week 16 - December 12 - Exam Week
 
 ### Assignments (subject to change)
